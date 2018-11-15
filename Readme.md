@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/BindMap/MainPage.xaml) (VB: [MainPage.xaml](./VB/BindMap/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/BindMap/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/BindMap/MainPage.xaml))
+<!-- default file list end -->
 # How to bind a Map control to a datasource
 
 
