@@ -5,6 +5,9 @@
 * [MainPage.xaml.cs](./CS/XpfMapLesson4/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/XpfMapLesson4/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to bind a Map control to a datasource
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4705)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to bind a map control to data, which is stored in an external XML file. The XML data source contains information about wrecked ships including ship coordinates. <br />
